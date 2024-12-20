@@ -1,4 +1,4 @@
-## ciao da Nico 👋
+## Nico 👋
 
 <!--
 **Nico192744/Nico192744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
